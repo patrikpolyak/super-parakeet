@@ -1,0 +1,19 @@
+{
+  "name": "@patrikpolyak/super-parakeet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrikpolyak/super-parakeet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrikpolyak/super-parakeet/issues"
+  },
+  "homepage": "https://github.com/patrikpolyak/super-parakeet#readme"
+}
